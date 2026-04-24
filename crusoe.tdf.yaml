@@ -2,6 +2,7 @@ apiVersion: tdf.7sg.ai/v1
 kind: TargetDefinition
 metadata:
   name: crusoe
+  version: "1.0.0"
   displayName: Crusoe US (logical target)
   description: Logical Crusoe Cloud target for running app containers and (optionally)
     AI endpoints.
